@@ -30,6 +30,9 @@ The Ames housing dataset is a much more complex variant of the King County datas
 ### PlayerUnknown's Battlegrounds Player Leaderboards Prediction 
 The PUBG leaderboards prediction was the first "big" dataset I worked on, with a size of 1.5GB. With various in-game statistics used as input features, the goal was to predict the leaderboard standings of all player types in the game, ranging from solo, duo to squad player types. The machine learning problem employed a n-layered neural network to perform the predictions and produce results. 
 
+### Caterpillar Tube Pricing
+The goal of this data was to use regression techniques to forecast the price of caterpillar tubes. With data preprocessing and regression modelling done in the data, the prices were predicted. 
+
 ## Sub-branches of Data Science
 
 ### Stock Market Classification (Finance)
@@ -37,6 +40,10 @@ Done as a part of my undergraduate thesis project, the goal of this project was 
 
 ### Histopathologic Cancer Detection via Image Classification (Image Detection) 
 This project was my first breakthrough into image detection where I implemented a basic CNN to detect the images which might be prone to developing cancer in them. The neural network was trained on my NVIDIA gpu and image processing was tested using desaturation and rasterisation. 
+
+### K-Means clustering (Clustering)
+A small project I did to understand the basics of K-means clustering and see its use cases in various situations such as market segmentation and anomaly detection. 
+
 
 
 
