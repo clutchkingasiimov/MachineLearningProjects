@@ -1,4 +1,4 @@
-# Machine Learning projects
+# Data Science Projects 
 
 This repository is a compilation of all the data science projects. The projects have been done on various data types with different goal settings and associated problems. 
 
