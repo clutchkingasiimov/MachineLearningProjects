@@ -13,6 +13,9 @@ The Ames housing dataset is a much more complex variant of the King County datas
 ## Bank Fraud Detection 
 The bank fraud detection posed an anomaly detection problem where the goal was to predict the occurences of fraud transactions using machine learning. The problem posed a class imbalance problem which had to be fixed with class-resampling techniques and the detection of fraud cases was visualized using clustering techniques.
 
+## Bank Marketing Predictions & Analysis 
+The goal of this project was not to develop a predictive model to predict customer churn but to focus on observing statistical patterns in customer churn and aid my college's marketing club to understand the use of data science and business analytics to make better marketing decisions. 
+
 ## PlayerUnknown's Battlegrounds Player Leaderboards Prediction 
 The PUBG leaderboards prediction was the first "big" dataset I worked on, with a size of 1.5GB. With various in-game statistics used as input features, the goal was to predict the leaderboard standings of all player types in the game, ranging from solo, duo to squad player types. The machine learning problem employed a n-layered neural network to perform the predictions and produce results. 
 
