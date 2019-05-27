@@ -20,5 +20,10 @@ The PUBG leaderboards prediction was the first "big" dataset I worked on, with a
 The Don't Overfit challenge was one of the unique instances of data mining problems which focused on building a model on an extremely small dataset with around 250 observations and using that to run predictions on a dataset with 100x more observations. The dataset posed an overfitting challenge which had to be addressed using feature selection techniques and employing parsimonious models such as logistic regression. 
 
 ## Stock Market Classification 
-Done as a part of my undergraduate thesis project, the goal of this project was to develop a predictive model which can classify a day's market trend as either bullish, bearish or reversal using OHLC and technical indicators as input features. With extensive work done on the data of NYSE, the modelling was done using various classification algorithms and dimensionality reduction techniques in order to develop the best classifier. 
+Done as a part of my undergraduate thesis project, the goal of this project was to develop a predictive model which can classify a day's market trend as either bullish, bearish or reversal using OHLC and technical indicators as input features. With extensive work done on the data of NYSE, the modelling was done using various classification algorithms and dimensionality reduction techniques in order to develop the best classifier.
+
+## Histopathologic Cancer Detection via Image Classification 
+This project was my first breakthrough into image detection where I implemented a basic CNN to detect the images which might be prone to developing cancer in them. The neural network was trained on my NVIDIA gpu and image processing was tested using desaturation and rasterisation. 
+
+
 
