@@ -47,6 +47,10 @@ A small project I did to understand the basics of K-means clustering and see its
 ### Determining the next CEO (Decision Analysis) 
 I implemented AHP, a multi-criteria decision making technique used to make decisions under certainity. The goal was to determine who is best suitable to be the next CEO of the company using decision analysis. 
 
+### Reddit news sentiment analysis (Text processing)
+
+Text processing project combined with some statistics and data visualization in order to run predictive modelling on news sentiment polarities of news articles on Reddit.
+
 
 
 
