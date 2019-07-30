@@ -27,21 +27,21 @@ The PUBG leaderboards prediction was the first "big" dataset I worked on, with a
 #### Caterpillar Tube Pricing
 The goal of this data was to use regression techniques to forecast the price of caterpillar tubes. With data preprocessing and regression modelling done in the data, the prices were predicted. 
 
-## Sub-branches of Data Science
+## Domain Specific Data Science 
 
-#### Stock Market Classification (Finance)
+#### Stock Market Classification (Finance/Ensemble Learning)
 Done as a part of my undergraduate thesis project, the goal of this project was to develop a predictive model which can classify a day's market trend as either bullish, bearish or reversal using OHLC and technical indicators as input features. With extensive work done on the data of NYSE, the modelling was done using various classification algorithms and dimensionality reduction techniques in order to develop the best classifier.
 
-#### Histopathologic Cancer Detection via Image Classification (Image Detection) 
+#### Histopathologic Cancer Detection via Image Classification (Image Detection/Deep Learning) 
 This project was my first breakthrough into image detection where I implemented a basic CNN to detect the images which might be prone to developing cancer in them. The neural network was trained on my NVIDIA gpu and image processing was tested using desaturation and rasterisation. 
 
-#### K-Means clustering (Clustering)
+#### K-Means clustering (Unsupervised Learning)
 A small project I did to understand the basics of K-means clustering and see its use cases in various situations such as market segmentation and anomaly detection. 
 
-#### Determining the next CEO (Decision Analysis) 
+#### Determining the next CEO (Decision Analysis/Operations Research) 
 I implemented AHP, a multi-criteria decision making technique used to make decisions under certainity. The goal was to determine who is best suitable to be the next CEO of the company using decision analysis. 
 
-#### Reddit news sentiment analysis (Text processing & Sentiment labelling)
+#### Reddit news sentiment analysis (Text processing & Sentiment labelling/Regression Analysis)
 
 Text processing project combined with some statistics and data visualization in order to run predictive modelling on news sentiment polarities of news articles on Reddit.
 
