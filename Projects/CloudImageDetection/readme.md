@@ -1,4 +1,4 @@
-# Cloud Image Detection project 
+# Cloud Pattern Detection project 
 
 The cloud image detection project is a full blown deep learning project done as a part of my Data Science journey. Being concerned about climate change, the goal of this project is to be able to create an image detection network which can accurately classify various cloud patterns. The cloud images have been scraped from the internet using scraping agents in order to collect images on cloud patterns. 
 
