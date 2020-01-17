@@ -37,14 +37,3 @@ def binary_search(array, target):
 numbers = [5,7,13,22,28,34,45]
 output = binary_search(numbers, 13)
 print("Position of the target: {}".format(output))
-
-
-
-
-		
-
-
-
-
-
-
