@@ -18,8 +18,8 @@ for i in range(len(numbers)):
     b2_hat += -2*numbers[i] * (y[i] - (b2*numbers[i]+ b1))
     b1_hat += -2*(y[i] - (b2*numbers[i] + b1))
 
-b1 -= (b1_hat/len(numbers)) * 0.01
-b2 -= (b2_hat/len(numbers)) * 0.01
+b1 -= (b1_hat/len(numbers)) * 0.0001
+b2 -= (b2_hat/len(numbers)) * 0.0001
 print(b1)
 print(b2)
 
