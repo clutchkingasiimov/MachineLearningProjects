@@ -16,6 +16,9 @@ The goal of this project was not to develop a predictive model to predict custom
 #### Don't Overfit Challenge 
 The Don't Overfit challenge was one of the unique instances of data mining problems which focused on building a model on an extremely small dataset with around 250 observations and using that to run predictions on a dataset with 100x more observations. The dataset posed an overfitting challenge which had to be addressed using feature selection techniques and employing parsimonious models such as logistic regression. 
 
+#### University of Liverpool: Ion Switching Challenge 
+The Ion Switching challenge was a competition conducted by University of Liverpool with the goal to predict ion channel signals accurately across a dataset of 5 million observations. Predicted ion channel events in pore-forming proteins using a StackNet-XGBoost approach combined with a Bidirectional RNN, with a resultant Macro F1-score of 0.941.
+
 ## Regression 
 
 #### Ames Housing dataset Regression 
